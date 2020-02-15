@@ -1,1 +1,5 @@
-alert("Hello World!");
+var res = prompt("Здравствуйте, представьтесь");
+if (res)
+{
+	alert("Приветствую, Вас, " + res);
+}

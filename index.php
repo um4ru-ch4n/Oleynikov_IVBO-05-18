@@ -5,8 +5,8 @@
 	<title>Studying</title>
 </head>
 <body>
-	<h1>trenning JavaScript</h1>
-
+	<h1>Training JavaScript</h1>
+	
 	<script src="scripts/script.js"></script>
 </body>
 </html>
