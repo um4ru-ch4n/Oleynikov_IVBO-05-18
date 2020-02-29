@@ -5,7 +5,7 @@
 	<title>Studying</title>
 </head>
 <body>
-	<h1>Training JavaScript</h1>
+	<h1>Training JS</h1>
 	
 	<script src="scripts/script.js"></script>
 </body>
