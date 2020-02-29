@@ -7,6 +7,8 @@
 <body>
 	<h1>Training JS</h1>
 	
+	<h2>Создаем новую ветку</h2>
+
 	<script src="scripts/script.js"></script>
 </body>
 </html>
