@@ -6,7 +6,7 @@
   "scripts": {
     "cy:run": "cypress run",
     "test": "npm run cy:run --spec 'cypress/integration/*.spec.js'",
-    "start": "webpack-dev-server --mode development --open --hot",
+    "start": "webpack --mode development --watch",
     "build": "webpack --mode production",
     "cypress": "cypress open"
   },
